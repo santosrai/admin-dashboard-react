@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "titile": "Post One",
+      "body": "This is body",
+      "publishedAt": "2020-10-08"
+    },
+    {
+      "title": "This is title",
+      "body": "This is body",
+      "publishedAt": "2020-10-08",
+      "id": "ABwwP-J"
+    },
+    {
+      "title": "This is edit title2",
+      "body": "This is edit body",
+      "publishedAt": "2020-10-07",
+      "id": "1Ylko-g"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Santosh",
+      "email": "test@gmail.com"
+    }
+  ]
+}
